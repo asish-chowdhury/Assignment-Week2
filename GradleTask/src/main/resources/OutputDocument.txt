@@ -1,0 +1,118 @@
+Classes in the package:
+  |-->com.example.GradleTask.A
+  |-->com.example.GradleTask.B
+  |-->com.example.GradleTask.C
+  |-->com.example.GradleTask.D
+  |-->com.example.GradleTask.E
+
+Classes with @annotation.ClassDoc:
+  |-->com.example.GradleTask.A
+  |-->com.example.GradleTask.C
+  |-->com.example.GradleTask.D
+  |-->com.example.GradleTask.E
+
+Methods with @annotation.MethodDoc:
+  |-->public void com.example.GradleTask.A.AMethod2()
+  |-->public void com.example.GradleTask.D.DMethod1()
+  |-->public void com.example.GradleTask.D.DMethod2()
+  |-->public void com.example.GradleTask.E.EMethod1()
+  |-->public void com.example.GradleTask.C.CMethod2()
+  |-->public void com.example.GradleTask.A.AMethod1()
+  |-->public void com.example.GradleTask.B.BMethod1()
+  |-->public void com.example.GradleTask.E.EMethod2()
+  |-->public void com.example.GradleTask.B.BMethod2()
+  |-->public void com.example.GradleTask.C.CMethod1()
+
+Classes with javadoc:
+Class: com.example.GradleTask.E
+Javadoc:
+
+ * E javadoc
+ 
+===========================================
+Class: com.example.GradleTask.B
+Javadoc:
+
+ * B javadoc
+ 
+===========================================
+Class: com.example.GradleTask.C
+Javadoc:
+
+ * C javadoc
+ 
+===========================================
+Class: com.example.GradleTask.D
+Javadoc:
+
+ * D javadoc
+ 
+===========================================
+
+Class with annotation but no javadoc:
+  |-->com.example.GradleTask.A
+
+Class with javadoc but no annotation:
+  |-->com.example.GradleTask.B
+
+Methods with javadoc:
+Method: public void EMethod1()
+Javadoc:
+
+     * EMethod1 javadoc
+     
+===========================================
+Method: public void EMethod2()
+Javadoc:
+
+     * EMethod2 javadoc
+     
+===========================================
+Method: public void BMethod1()
+Javadoc:
+
+     * BMethod1 javadoc
+     
+===========================================
+Method: public void BMethod2()
+Javadoc:
+
+     * BMethod2 javadoc
+     
+===========================================
+Method: public void CMethod1()
+Javadoc:
+
+     * CMethod1 javadoc
+     
+===========================================
+Method: public void CMethod2()
+Javadoc:
+
+     * CMethod2 javadoc
+     
+===========================================
+Method: public void AMethod1()
+Javadoc:
+
+     * A Method1 javadoc
+     
+===========================================
+Method: public void AMethod2()
+Javadoc:
+
+     * A-Method2 javadoc
+     
+===========================================
+Method: public void DMethod1()
+Javadoc:
+
+     * DMethod1 javadoc
+     
+===========================================
+Method: public void DMethod2()
+Javadoc:
+
+     * DMethod2 javadoc
+     
+===========================================
